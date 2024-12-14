@@ -1,0 +1,2 @@
+ALTER TABLE FACT_VENTAS
+ADD ID_pedido int
